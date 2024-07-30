@@ -1,0 +1,188 @@
+[
+  {
+    "functionality": "Enviar mensaje Whastapp-CTA",
+    "filePath": "/home/david/compara/conversation-commerce/communication/communication-kafka-presenter/src/modules/whatsapp/infrastructure/controllers/on-send-whatsapp-cta-message/on-send-whatsapp-cta-message.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Enviar mensaje Whastapp-Media",
+    "filePath": "/home/david/compara/conversation-commerce/communication/communication-kafka-presenter/src/modules/whatsapp/infrastructure/controllers/on-send-whatsapp-media-message/on-send-whatsapp-media-message.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Enviar mensaje Whastapp-CTA",
+    "filePath": "/home/david/compara/conversation-commerce/communication/communication-kafka-presenter/src/modules/whatsapp/infrastructure/controllers/whatsapp.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Agrega agente a el ultimo deal del cliente en Bitrix",
+    "filePath": "/home/david/compara/conversation-commerce/crm/crm-business/src/modules/deals/infrastructure/controllers/deal-association-bitrix-put/deal-association-bitrix-put.controller.ts",
+    "line": 10,
+    "column": 2
+  },
+  {
+    "functionality": "Crear Deal con evento form-event-added",
+    "filePath": "/home/david/compara/conversation-commerce/crm/crm-kafka-presenter/src/modules/deals/infrastructure/controllers/form-event-added/form-event-added.controller.ts",
+    "line": 15,
+    "column": 2
+  },
+  {
+    "functionality": "Crear o Asignar Deals por cada cotización",
+    "filePath": "/home/david/compara/conversation-commerce/crm/crm-kafka-presenter/src/modules/users/infrastructure/controllers/on-user-registerd/on-user-registered.controller.ts",
+    "line": 14,
+    "column": 2
+  },
+  {
+    "functionality": "Actualizar contacto del deal con evento checkout-event-added",
+    "filePath": "/home/david/compara/conversation-commerce/crm/crm-kafka-presenter/src/modules/users/infrastructure/controllers/user.controller.ts",
+    "line": 26,
+    "column": 2
+  },
+  {
+    "functionality": "Oferta seleccionada para CICL creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cicl-email-events-kafka-presenter/src/modules/offers/infrastructure/controllers/offers.controller.ts",
+    "line": 24,
+    "column": 2
+  },
+  {
+    "functionality": "Cotización de CICL creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cicl-email-events-kafka-presenter/src/modules/checkout/infrastructure/controllers/checkout.controller.ts",
+    "line": 12,
+    "column": 2
+  },
+  {
+    "functionality": "Emisión de póliza para CICL creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cicl-email-events-kafka-presenter/src/modules/emissions/infrastructure/controllers/emissions.controller.ts",
+    "line": 24,
+    "column": 2
+  },
+  {
+    "functionality": "Cotización de CICL creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cicl-email-events-kafka-presenter/src/modules/quotes/infrastructure/controllers/quote.controller.ts",
+    "line": 12,
+    "column": 2
+  },
+  {
+    "functionality": "Cotización de CICO creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cico-email-events-kafka-presenter/src/modules/checkout/infrastructure/controllers/checkout.controller.ts",
+    "line": 12,
+    "column": 2
+  },
+  {
+    "functionality": "Oferta seleccionada para CICO creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cico-email-events-kafka-presenter/src/modules/offers/infrastructure/controllers/offers.controller.ts",
+    "line": 24,
+    "column": 2
+  },
+  {
+    "functionality": "Emisión de póliza para CICO creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cico-email-events-kafka-presenter/src/modules/emissions/infrastructure/controllers/emissions.controller.ts",
+    "line": 22,
+    "column": 2
+  },
+  {
+    "functionality": "Sarlaft creado en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cico-email-events-kafka-presenter/src/modules/sarlaft/infrastructure/controllers/sarlaft.controller.ts",
+    "line": 21,
+    "column": 2
+  },
+  {
+    "functionality": "Cotización de CICO creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/cico-email-events-kafka-presenter/src/modules/quotes/infrastructure/controllers/quote.controller.ts",
+    "line": 12,
+    "column": 2
+  },
+  {
+    "functionality": "Cotización de CIBR creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/email-events-kafka-presenter/src/modules/forms/car-insurance/infrastructure/controller/on-cibr-form-completed/on-cibr-form-completed.controller.ts",
+    "line": 20,
+    "column": 2
+  },
+  {
+    "functionality": "Cotización escueta de Travel creada en emails",
+    "filePath": "/home/david/compara/conversation-commerce/email/email-events-kafka-presenter/src/modules/forms/travel/infrastructure/http/quote/on-quote-travel/on-quote-travel.controller.ts",
+    "line": 17,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para served-by-ia",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/artificial-intelligence/infrastructure/controllers/on-twilio-phone-served-by-ia/on-twilio-phone-served-by-ia.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para creación de tareas de Twilio",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/conversation/infrastructure/controllers/task.controller.ts",
+    "line": 15,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para tareas completadas de Twilio",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/conversation/infrastructure/controllers/task.controller.ts",
+    "line": 32,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para creación de usuarios",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/crm/infrastructure/controllers/user.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para categorizacíon de conversación",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/conversation/infrastructure/controllers/on-conversation-categorized/on-conversation-categorized.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para status del envio de template de whatsapp",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/conversation/infrastructure/controllers/on-whatsapp-template-sent/on-whatsapp-template-status-updated.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para creación de pólizas",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/emissions/infrastructure/controllers/emissions-controller.ts",
+    "line": 14,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para formulario nuevo",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/forms/infrastructure/controllers/form.controller.ts",
+    "line": 17,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para checkout nuevo",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/forms/infrastructure/controllers/form.controller.ts",
+    "line": 34,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para evento de seguimiento del cliente",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/follow-up/infrastructure/controllers/follow-up.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para aceptación de consentimiendo",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/users/infrastructure/controllers/users.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para creación de agendamiento",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/schedule/infrastructure/controllers/on-user-contact-schedule-created/on-user-contact-schedule-created.controller.ts",
+    "line": 11,
+    "column": 2
+  },
+  {
+    "functionality": "Registrar en MAT evento de comportamiento para archivos subidos",
+    "filePath": "/home/david/compara/conversation-commerce/marketing/marketing-kafka-presenter/src/modules/forms/infrastructure/controllers/on-file-uploaded-registerd/on-file-uploaded-registered.controller.ts",
+    "line": 11,
+    "column": 2
+  }
+]
